@@ -1,0 +1,48 @@
+body{
+    background-color: #c5d5cb;
+    font:blue;
+    
+  }
+  .cointainer{
+    font-family: "Arial";
+    max-width: 500px;
+    margin: 0px auto;
+    padding: 16px;
+    background-color: #ffffff;
+  }
+  h3{
+    color:purple;
+    
+  }
+  .mapouter{position:relative;text-align:right;height:300px;width:300px;}
+  input[type=text], select, textarea, email {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  button[type=submit] {
+          background-color: #4cd9c6;
+          color: #ffffff;
+          padding: 12px 20px;
+          border: none;
+          border-radius: 7px;
+          cursor: pointer;
+  
+     button[type=submit] {
+     background-color: #6fe8d7;
+    
+  }
+  
+  .container {
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  
+  

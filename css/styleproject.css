@@ -1,0 +1,46 @@
+nav {
+    background-color:#2596be
+    ;
+    text-align:center;
+    
+}
+a {
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #404040 ;
+	
+;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', serif;
+    color:black;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+  body{
+      background-color: #E0FFFF
+      ;
+  }
+
+ .form-inline {
+    margin: 0 auto;
+    width:300px;
+    align-items: left;
+    padding: 10px;
+  
+  }
+
+  .card-deck{
+    width: 100%;
+  
+    
+  }
